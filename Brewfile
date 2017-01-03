@@ -39,7 +39,6 @@ brew 'mariadb'
 
 # Apps
 cask 'aerial'
-cask 'alfred'
 cask 'caffeine'
 cask 'dropbox'
 cask 'firefox'
@@ -58,6 +57,8 @@ cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 cask 'vlc'
+cask 'hazel'
+cask 'quicksilver'
 
 # Quicklook
 cask 'qlcolorcode'
