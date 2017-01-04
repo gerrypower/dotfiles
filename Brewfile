@@ -67,6 +67,7 @@ cask 'spectacle'
 cask 'dash'
 cask 'textexpander'
 cask 'textmate'
+cask '1password'
 
 # Quicklook
 cask 'qlcolorcode'
