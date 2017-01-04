@@ -65,6 +65,7 @@ cask 'quicksilver'
 cask 'postgres'
 cask 'spectacle'
 cask 'dash'
+cask 'textexpander'
 
 # Quicklook
 cask 'qlcolorcode'
