@@ -33,9 +33,12 @@ brew 'node'
 brew 'trash'
 brew 'wget'
 
+brew 'heroku-toolbelt'
+# Make sure the toolbelt is the latest
+heroku update
+
 # Development
 brew 'php71', args: ['with-debug']
-brew 'mariadb'
 
 # Apps
 cask 'aerial'
