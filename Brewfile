@@ -42,8 +42,6 @@ heroku update
 # Development
 # brew 'php71', args: ['with-debug']
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
 # Apps
 cask 'aerial'
 cask 'caffeine'
