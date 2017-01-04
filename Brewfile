@@ -63,6 +63,7 @@ cask 'vlc'
 cask 'hazel'
 cask 'quicksilver'
 cask 'postgres'
+cask 'spectacle'
 
 # Quicklook
 cask 'qlcolorcode'
