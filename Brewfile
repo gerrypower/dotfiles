@@ -62,6 +62,7 @@ cask 'virtualbox-extension-pack'
 cask 'vlc'
 cask 'hazel'
 cask 'quicksilver'
+cask 'postgres'
 
 # Quicklook
 cask 'qlcolorcode'
