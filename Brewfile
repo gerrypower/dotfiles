@@ -32,13 +32,17 @@ brew 'mas'
 brew 'node'
 brew 'trash'
 brew 'wget'
+brew 'zsh'
+brew 'zsh-completions'
 
 brew 'heroku-toolbelt'
 # Make sure the toolbelt is the latest
 heroku update
 
 # Development
-brew 'php71', args: ['with-debug']
+# brew 'php71', args: ['with-debug']
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Apps
 cask 'aerial'
@@ -48,14 +52,9 @@ cask 'firefox'
 cask 'google-chrome'
 cask 'google-drive'
 cask 'iterm2'
-cask 'mysqlworkbench'
-cask 'phpstorm'
-cask 'quip'
 cask 'sequel-pro'
 cask 'slack'
 cask 'sublime-text'
-cask 'tower'
-cask 'transmit'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
