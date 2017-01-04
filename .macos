@@ -292,6 +292,11 @@ defaults write com.apple.menuextra.clock DateFormat "EEE MMM d  H:mm"
 # Prevent Photos from opening automatically when devices are plugged in
 defaults -currentHost write com.apple.ImageCapture disableHotPlug -bool true
 
+# Security
+defaults -currentHost write /Library/Preferences/com.apple.alf globalstate -bool true
+defaults -currentHost write ~/Library/Preferences/com.apple.alf globalstate -bool true
+
+
 ###############################################################################
 # Kill affected applications                                                  #
 ###############################################################################
