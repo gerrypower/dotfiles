@@ -297,6 +297,9 @@ defaults -currentHost write /Library/Preferences/com.apple.alf globalstate -bool
 defaults -currentHost write ~/Library/Preferences/com.apple.alf globalstate -bool true
 
 
+# Move dock to left
+defaults write com.apple.dock orientation left
+
 ###############################################################################
 # Kill affected applications                                                  #
 ###############################################################################
