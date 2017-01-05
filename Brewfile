@@ -65,6 +65,8 @@ cask 'dash'
 cask 'textexpander'
 cask 'textmate'
 cask '1password'
+cask 'omnifocus'
+cask 'omnigraffle'
 
 # Quicklook
 cask 'qlcolorcode'
