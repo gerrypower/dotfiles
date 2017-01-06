@@ -67,6 +67,7 @@ cask 'textmate'
 cask '1password'
 cask 'omnifocus'
 cask 'omnigraffle'
+cask 'typeit4me'
 
 # Quicklook
 cask 'qlcolorcode'
