@@ -34,6 +34,7 @@ brew 'trash'
 brew 'wget'
 brew 'zsh'
 brew 'zsh-completions'
+brew 'phantomjs'
 
 brew 'heroku-toolbelt'
 # Make sure the toolbelt is the latest
