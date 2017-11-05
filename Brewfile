@@ -70,6 +70,7 @@ cask 'omnigraffle'
 cask 'duet'
 cask 'textexpander'
 cask 'fujitsu-scansnap-manager-ix500'
+cask 'zoom'
 
 # Quicklook
 cask 'qlcolorcode'
