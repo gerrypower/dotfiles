@@ -75,7 +75,7 @@ brew "wget"
 
 brew 'heroku-toolbelt'
 # Make sure the toolbelt is the latest
-heroku update
+# heroku update
 
 # Development
 # brew 'php71', args: ['with-debug']
