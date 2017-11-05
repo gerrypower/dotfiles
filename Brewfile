@@ -109,6 +109,8 @@ cask 'textexpander'
 cask 'fujitsu-scansnap-manager-ix500'
 cask 'zoom'
 cask 'ngrok'
+cask 'little-snitch'
+cask 'tunnelblick'
 
 # Quicklook
 cask 'qlcolorcode'
