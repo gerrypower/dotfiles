@@ -81,7 +81,7 @@ brew 'heroku-toolbelt'
 # brew 'php71', args: ['with-debug']
 
 # Drivers
-cask install 'fujitsu-scansnap-manager-ix500'
+cask 'fujitsu-scansnap-manager-ix500'
 
 # Apps
 cask 'aerial'
