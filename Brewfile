@@ -4,7 +4,6 @@ tap 'caskroom/fonts'
 tap 'caskroom/versions'
 tap 'homebrew/bundle'
 tap 'homebrew/dupes'
-tap 'homebrew/php'
 
 # Install ZSH
 brew 'zsh'
@@ -50,10 +49,7 @@ cask 'dropbox'
 cask 'firefox'
 cask 'google-chrome'
 cask 'google-drive'
-cask 'iterm2'
-cask 'sequel-pro'
-cask 'slack'
-cask 'sublime-text'
+cask 'sublime-text2'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
@@ -64,12 +60,11 @@ cask 'postgres'
 cask 'spectacle'
 cask 'dash'
 cask 'textexpander'
-cask 'textmate'
 cask '1password'
 cask 'omnifocus'
 cask 'omnigraffle'
-cask 'typeit4me'
 cask 'duet'
+cask 'textexpander'
 
 # Quicklook
 cask 'qlcolorcode'
@@ -90,3 +85,9 @@ mas 'Xcode', id: 497799835
 mas 'Keynote', id: 409183694
 mas 'Pages', id: 409201541
 mas 'Numbers', id: 409203825
+mas 'Kindle', id: 405399194
+mas 'Rested', id: 421879749
+mas 'Fantastical 2', id: 975937182
+mas 'Slack', id: 803453959
+mas 'Letter Opener Lite', id: 411897373
+mas 'Spark', id: 1176895641
