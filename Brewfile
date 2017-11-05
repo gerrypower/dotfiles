@@ -2,6 +2,7 @@
 tap 'caskroom/cask'
 tap 'caskroom/fonts'
 tap 'caskroom/versions'
+tap 'caskroom/drivers'
 tap 'homebrew/bundle'
 tap 'homebrew/dupes'
 
@@ -42,6 +43,9 @@ heroku update
 # Development
 # brew 'php71', args: ['with-debug']
 
+# Drivers
+cask install 'fujitsu-scansnap-manager-ix500'
+
 # Apps
 cask 'aerial'
 cask 'caffeine'
@@ -65,6 +69,7 @@ cask 'omnifocus'
 cask 'omnigraffle'
 cask 'duet'
 cask 'textexpander'
+cask 'fujitsu-scansnap-manager-ix500'
 
 # Quicklook
 cask 'qlcolorcode'
