@@ -23,8 +23,8 @@ brew 'bash'
 brew 'homebrew/dupes/grep'
 
 # Install Binaries
-brew 'awscli'
 brew 'git'
+brew 'awscli'
 brew 'hub'
 brew 'tree'
 brew 'mackup'
@@ -35,6 +35,43 @@ brew 'wget'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'phantomjs'
+brew "openssl"
+brew "gettext"
+brew "libffi"
+brew "pcre"
+brew "glib"
+brew "libpng"
+brew "git"
+brew "readline"
+brew "autoconf"
+brew "automake"
+brew "sqlite"
+brew "cmake"
+brew "ffmpeg", args: ["with-fdk-aac", "with-freetype", "with-libass", "with-libquvi", "with-libvorbis", "with-libvpx", "with-opus", "with-sdl2", "with-x265"]
+brew "eigen"
+brew "faac"
+brew "fdk-aac"
+brew "lame"
+brew "x264"
+brew "xvid"
+brew "gmp"
+brew "isl"
+brew "mpfr"
+brew "libmpc"
+brew "gcc"
+brew "fftw"
+brew "flac"
+brew "flex"
+brew "freetds"
+brew "fribidi"
+brew "jpeg"
+brew "libtiff"
+brew "gdk-pixbuf"
+brew "imagemagick"
+brew "node"
+brew "nvm"
+brew "wget"
+
 
 brew 'heroku-toolbelt'
 # Make sure the toolbelt is the latest
@@ -71,6 +108,7 @@ cask 'duet'
 cask 'textexpander'
 cask 'fujitsu-scansnap-manager-ix500'
 cask 'zoom'
+cask 'ngrok'
 
 # Quicklook
 cask 'qlcolorcode'
