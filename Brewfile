@@ -111,6 +111,7 @@ cask 'zoom'
 cask 'ngrok'
 cask 'little-snitch'
 cask 'tunnelblick'
+cask 'typora'
 
 # Quicklook
 cask 'qlcolorcode'
