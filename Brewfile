@@ -71,6 +71,7 @@ brew "imagemagick"
 brew "node"
 brew "nvm"
 brew "wget"
+brew "libyaml"
 
 
 brew 'heroku-toolbelt'
